@@ -8,8 +8,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karimzakzouk)
-[![GitHub followers](https://img.shields.io/github/followers/karimzakzouk?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/karimzakzouk)
-![Profile Views](https://komarev.com/ghpvc/?username=karimzakzouk&style=for-the-badge&color=58a6ff)
 
 </div>
 
@@ -18,29 +16,26 @@
 ## 👾 About Me
 
 ```yaml
-name: Karim Zakzouk
+name:     Karim Zakzouk
+role:     Software Engineer · DevOps & Platform Engineering
 location: Cairo, Egypt 🇪🇬
-current_focus:
-  - Cloud-native & Kubernetes ecosystem
-  - DevOps / Platform Engineering
-  - Low-level systems (C++, Verilog, GLSL shaders)
-  - Open Source Contributions (CNCF)
-fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in that order.
+school:   Cairo University — Computer Engineering
+
+focus:
+  - Cloud-native architecture & Kubernetes ecosystem
+  - Infrastructure as Code, GitOps & CI/CD pipelines
+  - Low-level systems: C++, Verilog HDL, VHDL, GLSL shaders
+  - Open Source Contributions: CNCF / Kubernetes ecosystem
+
+currently_doing:
+  - Merging PRs into Kubernetes, Helm, ArgoCD & more
+  - Designing production-grade DevOps pipelines
+  - Building things at the intersection of hardware and cloud
+
+fun_fact: >
+  I wrote a game engine, a neural net, and patched Kubernetes.
+  Not in that order.
 ```
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**graduation-project-devops**](https://github.com/karimzakzouk/graduation-project-devops) | Enterprise-grade CI/CD, IaC, GitOps & monitoring | HCL · K8s · ArgoCD |
-| [**aws-serverless-image-pipeline**](https://github.com/karimzakzouk/aws-serverless-image-pipeline) | Serverless image processing on AWS with Terraform | HCL · Lambda · EKS |
-| [**SwiftRoute**](https://github.com/karimzakzouk/SwiftRoute) | Full-stack transportation booking app | React · Node · PostgreSQL |
-| [**NeuralDigit**](https://github.com/karimzakzouk/NeuralDigit) | Neural network from scratch, MNIST, neon web UI | C++ · HTML |
-| [**AES**](https://github.com/karimzakzouk/AES) | AES-128/192/256 encryption in Verilog HDL | Verilog |
-| [**take-oprf-protocol**](https://github.com/karimzakzouk/take-oprf-protocol) | Biometric auth with AWS Nitro Enclaves + OPRF | Python · AWS |
-| [**ULTRAHELL**](https://github.com/Mag-D-Anas/ULTRAHELL) | OpenGL game — physics, GLSL shaders, collision system | C++ · OpenGL |
 
 ---
 
@@ -59,17 +54,24 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 **Cloud & DevOps**
 
 ![AWS](https://skillicons.dev/icons?i=aws)
+![Azure](https://skillicons.dev/icons?i=azure)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
+![Ansible](https://skillicons.dev/icons?i=ansible)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **Languages**
 
 ![Go](https://skillicons.dev/icons?i=go)
+![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
-![Python](https://skillicons.dev/icons?i=python)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+![Java](https://skillicons.dev/icons?i=java)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Dart](https://skillicons.dev/icons?i=dart)
 ![Bash](https://skillicons.dev/icons?i=bash)
@@ -77,14 +79,33 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 **Low-Level & Hardware**
 
 ![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-8B0000?style=for-the-badge&logo=v&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5C3EE8?style=for-the-badge&logo=opengl&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Web**
+**Web & Databases**
 
 ![React](https://skillicons.dev/icons?i=react)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Redis](https://skillicons.dev/icons?i=redis)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
+**Observability**
+
+![Prometheus](https://skillicons.dev/icons?i=prometheus)
+![Grafana](https://skillicons.dev/icons?i=grafana)
+![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karimzakzouk&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -97,14 +118,19 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 <img src="https://github-readme-stats.vercel.app/api?username=karimzakzouk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimzakzouk&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karimzakzouk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karimzakzouk&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Snake animation](https://github.com/karimzakzouk/karimzakzouk/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
 
 </div>
