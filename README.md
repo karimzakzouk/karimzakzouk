@@ -46,18 +46,9 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 
 ## 🌐 Open Source Contributions
 
-> Merged PRs across the CNCF / Kubernetes ecosystem and more:
+> Merged PRs across the CNCF / Kubernetes ecosystem:
 
-- **[kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)** — kubelet: fix shared digest poisoning under NeverVerifyPreloadedImages
-- **[helm/helm](https://github.com/helm/helm)** — fix(provenance): flow style for arrays to avoid PGP dash-escaping
-- **[argoproj/argo-cd](https://github.com/argoproj/argo-cd)** — fix(ui): OCI revision metadata never renders due to conflicting guard clause
-- **[kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension)** — align default model references to Qwen
-- **[kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api)** — migrate away from custom GitHub Action approval workflow
-- **[kubernetes-sigs/cluster-api-provider-vsphere](https://github.com/kubernetes-sigs/cluster-api-provider-vsphere)** — migrate away from custom GitHub Action approval workflow
-- **[kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime)** — migrate away from custom GitHub Action approval workflow
-- **[kubernetes-sigs/controller-tools](https://github.com/kubernetes-sigs/controller-tools)** — migrate away from custom GitHub Action approval workflow
-- **[kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray)** — Flannel bump, CNI plugins bump, CiliumBGP fix
-- **[kubernetes/test-infra](https://github.com/kubernetes/test-infra)** — enable trigger_github_workflows for controller-runtime
+`kubernetes/kubernetes` · `helm/helm` · `argoproj/argo-cd` · `kubernetes-sigs/gateway-api-inference-extension` · `kubernetes-sigs/cluster-api` · `kubernetes-sigs/cluster-api-provider-vsphere` · `kubernetes-sigs/controller-runtime` · `kubernetes-sigs/controller-tools` · `kubernetes-sigs/kubespray` · `kubernetes/test-infra`
 
 ---
 
@@ -75,10 +66,19 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 
 **Languages**
 
+![Go](https://skillicons.dev/icons?i=go)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![Python](https://skillicons.dev/icons?i=python)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![Dart](https://skillicons.dev/icons?i=dart)
 ![Bash](https://skillicons.dev/icons?i=bash)
+
+**Low-Level & Hardware**
+
+![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5C3EE8?style=for-the-badge&logo=opengl&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Web**
 
