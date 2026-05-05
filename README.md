@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Karim%20Zakzouk&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Open%20Source%20Contributor&descAlignY=55&descColor=8b949e)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Karim%20Farid&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20DevOps%20%7C%20Open%20Source%20Contributor&descAlignY=55&descColor=8b949e)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+infra+that+doesn't+break+at+3am;Contributing+to+Kubernetes+%26+CNCF+ecosystem;From+Verilog+to+cloud-native+%F0%9F%9A%80;Cairo-based%2C+globally+contributing)](https://git.io/typing-svg)
 
