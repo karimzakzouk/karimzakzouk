@@ -26,15 +26,6 @@ focus:
   - Infrastructure as Code, GitOps & CI/CD pipelines
   - Low-level systems: C++, Verilog HDL, VHDL, GLSL shaders
   - Open Source Contributions: CNCF / Kubernetes ecosystem
-
-currently_doing:
-  - Merging PRs into Kubernetes, Helm, ArgoCD & more
-  - Designing production-grade DevOps pipelines
-  - Building things at the intersection of hardware and cloud
-
-fun_fact: >
-  I wrote a game engine, a neural net, and patched Kubernetes.
-  Not in that order.
 ```
 
 ---
@@ -43,7 +34,7 @@ fun_fact: >
 
 > Merged PRs across the CNCF / Kubernetes ecosystem:
 
-`kubernetes/kubernetes` · `helm/helm` · `argoproj/argo-cd` · `kubernetes-sigs/gateway-api-inference-extension` · `kubernetes-sigs/cluster-api` · `kubernetes-sigs/cluster-api-provider-vsphere` · `kubernetes-sigs/controller-runtime` · `kubernetes-sigs/controller-tools` · `kubernetes-sigs/kubespray` · `kubernetes/test-infra`
+`argoproj/argo-cd` · `kubernetes-sigs/gateway-api-inference-extension` · `kubernetes/test-infra` · `kubernetes-sigs/cluster-api` · `kubernetes-sigs/cluster-api-provider-vsphere` · `kubernetes-sigs/controller-runtime` · `kubernetes-sigs/controller-tools` · `kubernetes-sigs/kubespray` 
 
 ---
 
@@ -101,25 +92,10 @@ fun_fact: >
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=karimzakzouk&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=karimzakzouk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimzakzouk&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-
-<br/>
-
+  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karimzakzouk&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
@@ -131,6 +107,7 @@ fun_fact: >
 ---
 
 <div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer)
 
 </div>
