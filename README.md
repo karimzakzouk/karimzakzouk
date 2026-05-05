@@ -97,7 +97,7 @@ fun_fact: I wrote a game engine, a neural net, and patched Kubernetes. Not in th
 <img src="https://github-readme-stats.vercel.app/api?username=karimzakzouk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimzakzouk&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=karimzakzouk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karimzakzouk&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
