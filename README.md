@@ -16,7 +16,7 @@
 ## 👾 About Me
 
 ```yaml
-name:     Karim Zakzouk
+name:     Karim Farid
 role:     Software Engineer · DevOps & Platform Engineering
 location: Cairo, Egypt 🇪🇬
 school:   Cairo University — Computer Engineering
